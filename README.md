@@ -1,6 +1,6 @@
 # Insta-Story-Feature
 
-So guys this is 9th project of my 30 days frontend project challenge 
+So guys this is 9th project of my 25 days frontend project challenge 
 
 This is a effect of a story similar to Insta story feature 
 
